@@ -22,6 +22,3 @@ AllInvoiceGenerator is a free online invoice generator for freelancers, small bu
 Most invoice tools require signup or payment.  
 AllInvoiceGenerator helps you create invoices instantly, for free.
 
----
-
-Generated using AllInvoiceGenerator
