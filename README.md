@@ -10,7 +10,7 @@ AllInvoiceGenerator is a free online invoice generator for freelancers, small bu
 - No signup required
 
 ## Live Tool
-👉 https://www.allinvoicegenerator.com/
+https://www.allinvoicegenerator.com/
 
 ## Who is this for?
 - Freelancers
